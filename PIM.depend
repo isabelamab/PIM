@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669815631 source:c:\dev\bel\crud\pim\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
